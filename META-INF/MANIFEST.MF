@@ -1,0 +1,5 @@
+Main-Class: out/production/Dictionary/Main
+
+
+
+
